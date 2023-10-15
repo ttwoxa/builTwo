@@ -1,2 +1,2 @@
-# bu-ilTwo
+# builTwo
 Advanced Android Build Automation Script
